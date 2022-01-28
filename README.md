@@ -28,7 +28,7 @@
 
  <p align="center">
  
-   <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Bharadwajsai-121/Bharadwajsai-121/blob/main/devcard.svg" width="500" alt="Bharadwaj sai Bandaru's Dev Card"/></a>!
+   <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Bharadwajsai-121/Bharadwajsai-121/blob/main/devcard.svg" width="500" alt="Bharadwaj sai Bandaru's Dev Card"/></a>
  </p>
    
-<!-- a href="https://app.daily.dev/Bharadwajsai_1"><img src="https://api.daily.dev/devcards/22ce7b2e2c3340e6a7f9beda1e431baf.png?r=y5o" width="400" alt="Bharadwaj sai Bandaru's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/Bharadwajsai_1"><img src="https://api.daily.dev/devcards/22ce7b2e2c3340e6a7f9beda1e431baf.png?r=y5o" width="400" alt="Bharadwaj sai Bandaru's Dev Card"/></a>-->
