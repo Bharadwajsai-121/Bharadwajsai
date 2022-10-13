@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 📫 How to reach me **bharadwajsaibcm@gmail.com**
+- 📫 How to reach me **bharadwajsai.intern@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
